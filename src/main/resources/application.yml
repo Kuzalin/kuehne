@@ -1,0 +1,17 @@
+decathlon:
+ event:
+  names: hundredM,longJump,shotPut,highJump,fourHunM,hunTenHurdles,discusThrow,poleVault,javelinThrow,fifteenHunM
+  
+hundredM: 25.4347,18,1.81
+longJump: 0.14354,220,1.4
+shotPut: 51.39,1.5,1.05
+highJump: 0.8465,75,1.42
+fourHunM: 1.53775,82,1.81
+hunTenHurdles: 5.74352,28.5,1.92
+discusThrow: 12.91,4,1.1
+poleVault: 0.2797,100,1.35
+javelinThrow: 10.14,7,1.08
+fifteenHunM: 0.03768,480,1.85
+
+writeLocation: C:\\Users\\naveverma\\Desktop\\Kuenh\\
+outputFileName: ScoreBoard.xml
